@@ -1,0 +1,64 @@
+users:
+  -
+    name: Petya
+    lastName: Pupkin
+    departments:
+      - Main
+      - ADMIN
+    address:
+      city: Cracow
+      postCode: 22-987
+      phone: +48 987678111
+  -
+    name: Inna
+    lastName: Upkin
+    departments:
+      - Main
+      - FAIL
+    address:
+      city: Gdynya
+      postCode: 55-666
+      phone: +48 987677765
+  -
+    name: Gosha
+    lastName: Redkin
+    departments:
+      - Main
+      - LEGAL
+    address:
+      city: Lodz
+      postCode: 55-234
+      phone: +48 765123000
+
+mapUsers:
+  first:
+    name: Petya
+    lastName: Pupkin
+    departments:
+      - Main
+      - ADMIN
+    address:
+      city: Cracow
+      postCode: 22-987
+      phone: +48 987678111
+  second:
+    name: Gosha
+    lastName: Redkin
+    departments:
+      - Main
+      - LEGAL
+    address:
+      city: Lodz
+      postCode: 55-234
+      phone: +48 765123000
+
+singleUser:
+  name: Gosha
+  lastName: Redkin
+  departments:
+    - Main
+    - LEGAL
+  address:
+    city: Lodz
+    postCode: 55-234
+    phone: +48 765123000
